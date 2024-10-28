@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🤖 Github State
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0binSec)](https://github.com/anuraghazra/github-readme-stats)
+
+💻 Top Language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0binSec&layout=compact&theme=tokyonight)
